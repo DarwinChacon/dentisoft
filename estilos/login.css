@@ -1,0 +1,35 @@
+
+.login {
+    background-color: #fff;
+    width: 100%;
+}
+.color {
+    background-color: #0080AA;
+    width: 80%;
+    height: 100vh;
+    
+}
+body {
+    display: flex;
+    justify-content: space-between;
+}
+body section div {
+    padding-left: 90px;
+    font-size: large;
+}
+body section div .titulo {
+    font-family: 'Hurricane', cursive;
+    font-size: 60px;
+}
+
+.boton {
+    background-color: #0080AA;
+    padding: 10px;
+    border: none;
+    color: #fff;
+}
+.formulario  {
+    display: flex;
+    flex-direction: column;
+    padding-right: 300px;
+}
